@@ -40,7 +40,7 @@ I got this project from Upwork.
 The data was available on the website in the following format:  
 
 <p align="center">
-  <img src="assets/campaigns_listing.png" width="700"/>
+  <img src="assets/campaigns listing.png" width="700"/>
 </p>
 
 
