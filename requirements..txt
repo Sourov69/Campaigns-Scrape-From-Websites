@@ -1,12 +1,5 @@
-Web scraper using code for data extraction senior level
-Posted last quarter
-Worldwide
 
 Summary
 /www.causematch.com
 /www.charityextra.com
 while these 2 sites do not have a sitemap, we would need to scrape the nonprofits running campaigns on these sites. the scrape will need to include the amount raised, number of donors, date of the campaign, and associated emails/ phone numbers and the name of the nonprofit 
-
-in your cover letter let me know how many pages from each of these sites can u scrape
-
-If you have the know how and can do it quickly lets talk.
